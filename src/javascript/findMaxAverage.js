@@ -1,4 +1,6 @@
 /**
+ * NOTES:
+ * algo: sliding window
  * @param {number[]} nums
  * @param {number} k
  * @return {number}
